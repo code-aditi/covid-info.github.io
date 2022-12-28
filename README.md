@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/code-aditi/covid-info/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/code-aditi/covid-info/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<title>
+Welcome
+</title>
+<head>
+<hr>
+<p align="center">
+<font face="Elephant" color="Brouwn" size="20">
+COVID 19 - IMPACT  ON  STUDENTS<br>
+</font>
+<hr>
+<p align="center">
+<font face="Courier" size="5" color="yellow">
+<b>The coronavirus disease 2019 (COVID-19) outbreak was declared a public health emergency by the World Health Organization (WHO) on 30 January 2020. This was when all 34 regions of China reported cases of infection, by this time the total caseload was surpassing the 2003 severe acute respiratory syndrome (SARS).
+</B>
+</font>
+</p>
+<hr>
+<p aling="center">
+<font face="Courier" size="5" color="yellow">
+<b>Covid has affected the physical as well as mental health of children, adolescents, adults and elderly.</b>
+</font>
+</head>
+<body background="p-1.jpg">
+<p align="center">
+<table border="5">
+<tr><td align="center" colspan="4">
+<font face="Imprint MT Shadow" color="Green" size="10">
+<u><b>IMPACT & SOLUTION</b></u>
+</font>
+</td></tr>
+<tr>
+<td align="center"><a href="1.html"><img src="p-2.jpg" height="200" width="200"></a></td> 
+<td align="center"><a href="2.html"><img src="p-3.jpg" height="200" width="200"></a></td>
+</tr>
+<tr>
+<td align="center"><b>PHYSICAL HEALTH</b></td>
+<td align="center"><b>MENTAL HEALTH</b></td>
+</tr>
+</table>
+</body>
